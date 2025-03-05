@@ -1,7 +1,3 @@
-Here's a summary of your **Sentiment Analysis of Dell Tweets** project for your README file:
-
----
-
 # Sentiment Analysis of Dell Tweets
 
 ## Overview
@@ -76,6 +72,3 @@ The dataset consists of **tweets related to Dell**, labeled with sentiment categ
 
 This project provides **valuable sentiment insights for Dell** using **machine learning and deep learning**. With **BERT's superior performance**, this approach can be used in **customer feedback systems, automated support, and product improvement strategies**.
 
----
-
-Would you like to add **installation instructions, dataset sources, or API integration** to this README? 🚀
