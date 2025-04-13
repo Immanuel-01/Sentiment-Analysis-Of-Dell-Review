@@ -1,6 +1,6 @@
 # Sentiment Analysis of Dell Tweets
 
-This project classifies Dell-related tweets into positive, negative, or neutral sentiment using NLP and machine learning (TF-IDF, Word2Vec, LSTM, BERT). Provides insights to support brand perception and customer feedback analysis.
+Analyzed Dell-related tweets using natural language processing (NLP) to classify sentiments as positive, negative, or neutral. Implemented a range of models including traditional machine learning (Logistic Regression, Random Forest, SVM, Naive Bayes) and deep learning approaches (RNN, LSTM, BERT + Word2Vec). Extracted actionable insights to support brand monitoring and customer engagement strategie
 
 ## Overview
 
